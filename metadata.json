@@ -1,0 +1,5 @@
+{
+  "custom" : {
+    "modelImage" : "modelop/runtime:dev-rhel8-mon"
+  }
+}
